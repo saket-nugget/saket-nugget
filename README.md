@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...Web development and software development
 - 💞️ I’m looking to collaborate on ...hackathons and other projects
 - 📫 How to reach me ...saketramavedula@gmail.com, www.linkedin.com/in/saket-rama-0b2ba2324
-- 😄 Pronouns: ...Nik/Ger
+- 😄 Pronouns: ...him
 - ⚡ Fun fact: ...
 
 <!---
